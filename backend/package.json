@@ -1,0 +1,17 @@
+{
+  "name": "movie-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for movie app",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
+  }
+}
